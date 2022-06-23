@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FFXIVVenues.Migrator": {
+      "commandName": "Project",
+      "commandLineArgs": "https://localhost:5001/ z%g9RE*109lpO3Jh"
+    }
+  }
+}
